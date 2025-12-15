@@ -1,0 +1,1 @@
+This is a practise for Devops with Kubernetes 
